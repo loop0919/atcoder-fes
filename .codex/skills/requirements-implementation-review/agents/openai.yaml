@@ -1,0 +1,4 @@
+interface:
+  display_name: "Requirements Implementation Review"
+  short_description: "Review implementation against requirement definitions"
+  default_prompt: "Use $requirements-implementation-review to review whether the implementation satisfies the requirements definition."

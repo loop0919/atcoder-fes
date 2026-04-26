@@ -1,0 +1,4 @@
+interface:
+  display_name: "Requirements Manager"
+  short_description: "Manage requirements docs, IDs, scope, and changes"
+  default_prompt: "Use $requirements-manager to organize and update the requirements definition for this project."
